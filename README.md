@@ -4,7 +4,7 @@
 
 本项目已经部署在 [Github Pages](https://dong-666.github.io/te/) 以及 [Gitee Pages](https://ypigy.gitee.io/te/)上了，可以直接点击访问，建议国内访问 [Gitee Pages](https://ypigy.gitee.io/te/)
 
-![image-20210402173702300](README/image-20210402173702300.png)
+![image](https://user-images.githubusercontent.com/72775628/177067353-42cfbe4b-b9af-4a5f-98c8-ba6a37a9a133.png)
 
 # 目录结构
 
